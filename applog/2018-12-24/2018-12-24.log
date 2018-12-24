@@ -1,0 +1,2 @@
+2018-12-24 16:04:01 -failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{BFEWZaikSx2dD8k8HsO9uQ}{127.0.0.1}{127.0.0.1:9300}]
+2018-12-24 16:04:16 -failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{cfwZoHmAR4K1SpjyVEtJZg}{127.0.0.1}{127.0.0.1:9300}]
